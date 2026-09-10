@@ -1,0 +1,16 @@
+body {
+    background-color: #ea3c90;
+    font-family: courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border-radius: 10%;
+}
